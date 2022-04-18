@@ -21,7 +21,8 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  background: linear-gradient(deeppink, purple);
+  background: linear-gradient(45deg, rgba(209, 0, 42, 0.6) 0%, #0e5dc4 100%);
+  opacity: 0.9;
   padding: 5.5rem;
 }
 
