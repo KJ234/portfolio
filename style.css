@@ -395,5 +395,6 @@ header .navbar ul li a:hover {
 }
 
 .fa-github {
-  color: black;
+  color: #eee;
+  font-size: 13px;
 }
