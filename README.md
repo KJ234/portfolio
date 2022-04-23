@@ -24,6 +24,10 @@ The website has been published using GitHub - all you need to do is follow the l
 
 https://kj234.github.io/portfolio/
 
+## Deployed using cloudfare
+
+https://komal.talkfs.workers.dev/
+
 Deployed image : 
 
 <img width="892" alt="Screenshot 2022-04-23 222238" src="https://user-images.githubusercontent.com/95283510/164946330-8f6b322f-dd71-4f92-baba-6b91726eb51a.png">
