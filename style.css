@@ -398,3 +398,10 @@ header .navbar ul li a:hover {
   color: #eee;
   font-size: 13px;
 }
+
+@media only screen and (max-width: 1250px) {
+  html {
+    overflow: scroll;
+    display: block;
+  }
+}
