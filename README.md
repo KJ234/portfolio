@@ -18,6 +18,10 @@ Have displayed contact information so that the user can contact me.
 * Each application project has: a title, link to the deployed version, link to the GitHub repository and a screenshot of the deployed application.
 * Clicking the links in the navigation bar causes the UI to scroll to the corresponding section.
 
+## How to run
+
+Clone the repository and open the live sever to use the app
+
 ## Installation
 
 The website has been published using GitHub - all you need to do is follow the link below to access the website.
