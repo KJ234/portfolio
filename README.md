@@ -35,3 +35,6 @@ https://komal.talkfs.workers.dev/
 Deployed image : 
 
 <img width="892" alt="Screenshot 2022-04-23 222238" src="https://user-images.githubusercontent.com/95283510/164946330-8f6b322f-dd71-4f92-baba-6b91726eb51a.png">
+<img width="601" alt="portfolio #2" src="https://user-images.githubusercontent.com/95283510/170831171-0ba954b4-e476-424a-bf1f-16788116f514.PNG">
+
+
